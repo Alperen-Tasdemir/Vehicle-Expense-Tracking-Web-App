@@ -86,7 +86,7 @@ L/100km = (FuelLiters / DrivenKm) × 100
 
 The accuracy depends on consistent fuel and kilometer/odometer entries.
 
-##Suggested Workflow Inside the App
+## Suggested Workflow Inside the App
 
 1) Add a vehicle
 
