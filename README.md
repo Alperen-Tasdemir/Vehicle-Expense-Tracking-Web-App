@@ -40,3 +40,7 @@ Track multiple vehicles, log expenses (fuel, maintenance, etc.), and view report
 
 ### 1) Clone the repository
 
+```bash
+git clone https://github.com/Alperen-Tasdemir/Vehicle-Expense-Tracking-Web-App.git
+cd Vehicle-Expense-Tracking-Web-App
+
